@@ -12,3 +12,8 @@ Bei der Liste kann JS z.B. die ID, den text und die Einträge darin auslesen.
 Diese Infos heißen Eigenschaften des Elements.
  myList.id liest zB. die ID aus 
  myLIst. children zeigt die Elemente in der Liste. 
+
+Was machen diese Parameter? 
+Das sind Infos über die Liste, id ist der Name. 
+textContent ist der Text in der Liste
+children sind die einzelnen Einträge darin. 
